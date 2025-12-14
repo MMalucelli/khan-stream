@@ -17,13 +17,13 @@ http://95.141.35.86:8081/look/sptvl/playlist.m3u8
 
 #EXTINF:-1,REDE TV RJ    
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-
+ 
 #EXTINF:-1,REDE TV 
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1,REDE TV PR
 http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
+ 
 #EXTINF:-1,SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 
@@ -50,7 +50,7 @@ http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?sd=1
 
 #EXTINF:-1,TV VITORIA RECORD ES 
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
+ 
 #EXTINF:-1,BAND 
 http://starbr.digitalgroup.me:15000/live/25025/25025/1713.m3u8
 
@@ -59,7 +59,7 @@ http://starbr.digitalgroup.me:15000/live/25025/25025/1713.m3u8
 
 #EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png",BAND VIA MORENA 
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-
+ 
 #EXTINF:-1,REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
@@ -68,7 +68,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e
 
 #EXTINF:-1,TV CULTURA MG
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-
+ 
 #EXTINF:-1,TV GAZETA
 http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
 
@@ -84,7 +84,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw",PUC TV (EM MANUNTECAO)
 
 
-
+ 
 
 
 
@@ -120,10 +120,10 @@ https://mdstrm1-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publi
 
 #EXTINF:-1,FOX SPORTS
 http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
-
+ 
 #EXTINF:-1,FOX SPORTS 2 (EM MANUNTECAO)
 
-
+ 
 #EXTINF:-1,COMBATE 
 http://95.141.32.213:8081/look/combatel/playlist.m3u8
 
@@ -135,7 +135,7 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 
 
-
+ 
 #EXTINF:-1 tvg-logo= group-title="INFANTIL",[COLOR orange](INFANTIL)[/COLOR]
 http://
 
@@ -148,10 +148,10 @@ http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
 
 #EXTINF:-1,RETRO CARTOON
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-
+ 
 #EXTINF:-1,CARTOON NETWORK (MANUNTENCAO)
 
-
+ 
 #EXTINF:-1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -171,7 +171,7 @@ http://95.141.32.136:8081/look/gloob/playlist.m3u8
 
 
 
-
+ 
 #EXTINF:-1 tvg-logo= group-title="FILMES E SERIE",[COLOR orange](FILMES E SERIES)[/COLOR]
 http://
 
@@ -187,10 +187,10 @@ http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1016.m3u8
 
 #EXTINF:-1,FOX
 http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
-
+ 
 #EXTINF:-1,UNIVERSAL CHANNEL (EM MANUNTECAO)
 
-
+ 
 #EXTINF:-1,TNT (EM MANUNTECAO)
 
 
@@ -236,10 +236,10 @@ http://95.141.32.213:8081/look/eimaxs/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,MIX TV
 http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
-
+ 
 #EXTINF:-1,HIT TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-
+ 
 #EXTINF:-1,HOT MUSIC
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
@@ -572,5 +572,3 @@ http://str03.ddns.net/086/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aWbwb4" group-title="Infantil",DISNEY XD [COLOR gray] RedeCanais[/COLOR]
 http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel.igor" tvg
