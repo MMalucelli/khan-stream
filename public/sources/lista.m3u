@@ -1,0 +1,576 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="CANAIS ABERTOS",[COLOR orange](CANAIS ABERTOS)[/COLOR]
+http://
+
+
+#EXTINF:-1,GLOBO SP skjdhas
+http://95.141.35.86:8081/look/sptvl/playlist.m3u8
+
+#EXTINF:-1,GLOBO RJ (EM MANUNTECAO)
+
+#EXTINF:-1,REDE TV RJ    
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1,REDE TV 
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1,REDE TV PR
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+#EXTINF:-1,SBT SP 
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1,SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1,SBT SC
+http://srv6.zoeweb.tv9EM:1935/z343-live/stream/livestream.m3u8
+
+#EXTINF:-1,RECORD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RECORD RJ (EM MANUTENCAO)
+
+
+#EXTINF:-1,RECORD PB(EM MANUNTENCAO)
+
+
+#EXTINF:-1,TV VITORIA RECORD ES 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1,BAND 
+http://starbr.digitalgroup.me:15000/live/25025/25025/1713.m3u8
+
+#EXTINF:-1,BAND PARA (EM MANUTENCAO)
+
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png",BAND VIA MORENA 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1,REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1,TV GAZETA
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1,TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1,REDE MEIO DO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1,REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw",PUC TV (EM MANUNTECAO)
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="ESPORTE",[COLOR orange](ESPORTE)[/COLOR]
+http://
+
+
+#EXTINF:-1,PREMIERE CLUB
+http://95.211.149.215:8081/look/pfcc/playlist.m3u8
+
+#EXTINF:-1,BAND SPORTS 
+http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv.png",SPORTV
+http://95.141.35.86:8081/look/sportvr/playlist.m3u8
+
+#EXTINF:-1,ESPN (EM MANUNTECAO)
+
+
+#EXTINF:-1,ESPN BRASIL
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+
+#EXTINF:-1,ESPORTE INTERATIVO
+https://mdstrm1-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?dnt=true&es=mdstrm1-a.akamaihd.net&proto=https#ffmpeg
+
+#EXTINF:-1,EI MAXX (EM MANUNTECAO)
+
+
+#EXTINF:-1,EI MAXX 2 (EM MANUNTECAO)
+
+
+#EXTINF:-1,FOX SPORTS
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 (EM MANUNTECAO)
+
+
+#EXTINF:-1,COMBATE 
+http://95.141.32.213:8081/look/combatel/playlist.m3u8
+
+#EXTINF:-1,ALL SPORTS TV 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="INFANTIL",[COLOR orange](INFANTIL)[/COLOR]
+http://
+
+
+#EXTINF:-1,DISNEY XD 
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist_w1378600076.m3u8
+
+#EXTINF:-1,NICK JR
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
+
+#EXTINF:-1,RETRO CARTOON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+#EXTINF:-1,CARTOON NETWORK (MANUNTENCAO)
+
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
+#EXTINF:-1,DISCOVERY KIDS (MANUNTENCAO)
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gloob.png",GLOOB 
+http://95.141.32.136:8081/look/gloob/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7Y4hBP" group-title=",GLOOB (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="FILMES E SERIE",[COLOR orange](FILMES E SERIES)[/COLOR]
+http://
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png", HBO FAMILY HD
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1016.m3u8
+
+#EXTINF:-1,SYFY (EM MANUNTECAO)
+
+
+#EXTINF:-1,MEGAPIX (EM MANUNTECAO)
+
+
+#EXTINF:-1,FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL (EM MANUNTECAO)
+
+
+#EXTINF:-1,TNT (EM MANUNTECAO)
+
+
+#EXTINF:-1,TTELECINE ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1,TELECINE TOUCH
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/926.m3u8
+
+#EXTINF:-1,TV NA ILHA
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1,HISTORY 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1,AXN (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/OngVqc",HBO 2 (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="VARIEDADES",[COLOR orange](VARIEDADES)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,DISCOVERY CHANNEL (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryturbob.png",DISCOVERY TURBO
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/2411.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png",ANIMAL PLANET
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1117.m3u8
+
+#EXTINF:-1,MULITSHOW
+http://95.141.32.213:8081/look/eimaxs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1,HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1,HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1,FISH PLUS (EM MANUNTECAO)
+
+
+#EXTINF:-1.GLOBO NEWS 
+http://tv.ec.cx:1935/redecanais-stream-globo/myStream/playlist.m3u8
+
+#EXTINF:-1,RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1,BH NEWS
+http://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp/live.m3u8
+
+#EXTINF:-1,BAND NEWS (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="RELIGIOSO",[COLOR orange](RELIGIOSO)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,TV EVANGELIZAR 
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+#EXTINF:-1,TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1,CANÇÃO NOVA (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="tvg-logo="http://s20.postimg.org/s88or4re5/tvcinec.png",TV CINEC 
+http://104.156.60.74:1935/tvcinec/tvcinec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/k9exx981d/Rede_S_culo_21.png",REDE SECULO 21 
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/wJnpc56UYN/SxZIwjQckIaSaQaX.png",TV NOVO TEMPO 
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="INTERNACIONAIS",[COLOR orange](INTERNACIONAIS)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,REAL MADRI TV (EM MANUNTECAO)
+
+
+#EXTINF:-1,TELPI 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1,SkY SPORTS
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
+
+#EXTINF:-1,OLYMPIC CHANNEL
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+
+#EXTINF:1,NOVA CINEMA
+http://174.36.220.217:5000/live/120/120.m3u8
+
+#EXTINF:-1,3 ABN
+http://moiptvus-lh.akamaihd.net:80/i/3abnlive_1@328342/index_800_av-p.m3u8
+
+#EXTINF:-1,3 ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-p.m3u8
+
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="FILME",[COLOR orange](FILME)[/COLOR]
+http://
+
+#EXTINF:-1,VELOSES E FURIOSOS 8 (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/VELO2017-ALTO.mp4
+
+#EXTINF:-1,O CHAMADO 3 (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCHMD3.mp4
+
+#EXTINF:-1,ANJOS DA NOITE: GUERRA DE SANGUE (2017)
+http://comofazer.club/embed/ANJOSDANOITE2017.mp4
+
+#EXTINF:-1,APRISIONADOS (2017)
+http://comofazer.club/embed/Aprisionados.2017.720p.BluRay.x264.DUAL.mp4
+
+#EXTINF:-1,LOGAN (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/L0G4NDUB2017-BAIXO.mp4
+
+#EXTINF:-1,OS PENETRA 2 (2017)
+http://comofazer.club/embed/OSPENETRAS2.mp4
+
+#EXTINF:-1,A BELA E A FERA (2017)
+http://comofazer.club/embed/A.Bela.e.a.Fera.2017.1080p.BluRay.x264.DUBLADO.mp4
+
+#EXTINF:-1,MULHER MARAVILHA (2017)
+http://comofazer.club/embed/MULHERMARAVILHADUBLADOHDTC.mp4
+
+#EXTINF:-1,A MUMIA (2017)
+http://comofazer.club/embed/A%20Múmia.2017.HD-TS.XViD.Dual.Audio-RLS.mp4
+
+#EXTINF:-1,CAÇA FANTASMA (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016.mp4
+
+#EXTINF:-1,BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+
+#EXTINF:-1,X-MEN: APOCALIPSE (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/XMENAPCLPSE.mp4
+
+#EXTINF:-1, MUMIA: A RESUREICAO (2014)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MUMARSRCAO.mp4
+
+#EXTINF:-1,OS SMURFS 3: E A VILA PERDIDA (2017)
+http://comofazer.club/embed/Os.Smurfs.e.a.Vila.Perdida.2017.720p.WEB-DL.x264.DUAL.mp4
+
+#EXTINF:-1,RESIDENT EVIL6: O CAPITULO FINAL (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/REVIL06.mp4
+
+#EXTINF:-1,KONG A ILHA DA CAVEIRA (2017)
+http://zeus.netcine.tv/ondemand/filmes2017/CAVEIRA2017DUB-ALTO.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="CAMERA AO VIVO",[COLOR orange](CAMERA AO VIVO)[/COLOR]
+http://
+
+
+#EXTINF:-1,RJ - COPACABANA
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1,UBATUBA - PRAIA ENSEABA
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
+
+#EXTINF:-1,RECIFE - BOA VIAGEM
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
+
+#EXTINF:-1,ARENA ALLIANZ PARQUE - PALESTRA ITALIA
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
+
+#EXTINF:-1,SC - AVENIDA ATLANTICA EM SAO FRANCISCO DO SUL
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1036.stream/playlist.m3u8
+
+#EXTINF:-1,RUA SANTA EFIGENIA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_482.stream/playlist.m3u8
+
+#EXTINF:-1,AV INTERLAGOS - SHOPPING INTERLAGOS
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
+
+#EXTINF:-1,GUARUJA - PRAIA DA ENSEABA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
+
+#EXTINF:-1,UBATUBA - PRAIA DO SAPE
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1242.stream/playlist.m3u8
+
+#EXTINF:-1,ANDRADAS MG - PICO DO GAVIAO
+rtmp://streaming55.sitehosting.com.br/picodogaviao//camera.stream
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM" group-title="Filmes",SPACE [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/qXR9CS" group-title="Filmes",MEGAPIX [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/033/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="https://goo.gl/iwCiPM" group-title="Filmes",PARAMOUNT CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/068/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy" group-title="Filmes",TNT [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/023/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.igor"  tvg-logo="http://goo.gl/W89NH3" group-title="Filmes",TCM [COLOR blue][B]SD[/B][/COLOR][COLOR blue] SERVIDOR:2[/COLOR]
+http://str02.ddns.net/039/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/Hbr506" group-title="Filmes",MAX UP [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/045/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/JG4dUv" group-title="Filmes",MAX PRIME [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal.igor" tvg-logo="http://goo.gl/T8ICde" group-title="Filmes",STUDIO [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil.igor" tvg-logo="http://goo.gl/zddqpQ" group-title="Filmes",CANAL BRASIL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://165.227.181.85/canalbrasil/playlist.ts
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg" group-title="Seriados",[COLOR yellow]            > > > SERIADOS < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="https://goo.gl/2ZBWuk" group-title="Seriados",TNT SERIES [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/019/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq" group-title="Seriados",FOX [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq" group-title="Seriados",FOX [COLOR gray] Vertv.net[/COLOR]
+http://217.23.2.169:8081/look/foxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY" group-title="Seriados",FX [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1307?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="TBS.igor" tvg-logo="http://goo.gl/6Y4LUI" group-title="Seriados",TBS [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/038/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal.igor" tvg-logo="http://goo.gl/K8V00r" group-title="Seriados",UNIVERSAL CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warner.igor" tvg-logo="http://goo.gl/u2Eh6h" group-title="Seriados",WARNER [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/080/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="http://goo.gl/7GDv0O" group-title="Seriados",COMEDY CENTRAL [COLOR blue][B]SD[/B][/COLOR][COLOR blue] SERVIDOR:2[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_COMEDY_CENTRAL/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:0 tvg-id="c" group-title="Seriados" tvg-logo="https://goo.gl/STGSLK",FOX LIFE [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/083/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados" tvg-logo="http://goo.gl/VDyslJ",SYFY [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/omksVK" group-title="Seriados",SONY [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1279?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv" group-title="Seriados",AXN [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/016/myStream/playlist.m3u8
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Variedades",[COLOR yellow]            > > > VARIEDADES< < <[/COLOR]
+http://62.210.83.154:8081/twd/twd/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII" group-title="Variedades",MULTISHOW [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.igor"  tvg-logo="http://goo.gl/XQfSPS" group-title="Variedades",MTV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/008/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MIX TV.igor"  tvg-logo="http://goo.gl/9XI6AQ" group-title="Variedades",MIX TV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1 tvg-id="GNT.igor"  tvg-logo="http://goo.gl/YyHiwq" group-title="Variedades",GNT [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/084/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO" group-title="Variedades",VIVA [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/079/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh" group-title="Variedades",BIS [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1275?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="FishTV.igor"  tvg-logo="http://goo.gl/Lcrqe6" group-title="Variedades",FISH TV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_FISH_TV/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb" group-title="Variedades",OFF [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_OFF/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:-1 tvg-id="Discovery Home.igor"  tvg-logo="http://goo.gl/ewCTK1" group-title="Variedades",HOME & HEALTH [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/078/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Infantil",[COLOR yellow]            > > > INFANTIL < < <[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/24.ts
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu" group-title="Infantil",CARTOON NETWORK [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/027/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/welGCW" group-title="Infantil",NICK [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/077/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/aWbwb4" group-title="Infantil",DISNEY XD [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/086/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aWbwb4" group-title="Infantil",DISNEY XD [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg
